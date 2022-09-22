@@ -1,8 +1,7 @@
 # Kickstarter 
 
-Our mission is to create a platform to
+Our mission is to create a platform
 conducive to the success of your wildest
-dreams - whether it be the a potential
+dreams - whether it be a potential
 cure to climate change, the next big phone,
-or a perfectly crafted dog whistle - we make a
-place for you to succeed. 
+or a perfectly crafted dog whistle. 
